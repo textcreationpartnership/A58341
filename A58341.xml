@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Reeves his Alarm to London in a shrill voice to its inhabitants : late preacher at Waltham-Abbey in Hartford-shire.</title>
+            <title>Alarm to London</title>
+            <author>Reeve, Thomas, 1594-1672.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58341</idno>
+            <idno type="STC">Wing R684</idno>
+            <idno type="STC">ESTC R5969</idno>
+            <idno type="EEBO-CITATION">13219897</idno>
+            <idno type="OCLC">ocm 13219897</idno>
+            <idno type="VID">98526</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58341)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98526)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 436:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Reeves his Alarm to London in a shrill voice to its inhabitants : late preacher at Waltham-Abbey in Hartford-shire.</title>
+                  <title>Alarm to London</title>
+                  <author>Reeve, Thomas, 1594-1672.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed Nov. 8, 1678"</note>
+                  <note>Signed on p. 4: Tho. Reeve.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sin --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98526:1" rendition="simple:additions"/>
+            <p>Mr. Reeves HIS ALARM TO LONDON; In a SHRILL VOICE TO Its Inhabitants.</p>
+            <p>Late Preacher at <hi>Waltham-Abbey</hi> in <hi>Hartford-ſhire.</hi>
+            </p>
+            <p>
+               <hi>He being dead, yet ſpeaketh.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licenſed,</p>
+                        <closer>
+                           <date>
+                              <hi>Nov.</hi> 8. 1678.</date>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>L. C.</hi> 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="to_the_citizens_of_London">
+            <pb facs="tcp:98526:2"/>
+            <pb n="3" facs="tcp:98526:2"/>
+            <head>TO THE RELIGIOUS CITIZENS OF LONDON, Which are ſenſible of the Sins, And do ſupplicate for the Safety of the CITY.</head>
+            <opener>
+               <salute>
+                  <hi>Honoured Sirs, and Citizens of a Famous City,</hi> &amp;c.</salute>
+            </opener>
+            <p>APply your ſelves to the right Work, and fall to right-down Chriſtianity. Let him be the beſt Man, which can be moſt vertuous and zealous in this Religious ſervice.</p>
+            <p>Its as hard to preſerve a City, as to build it, when it is grown crazy with ſins, they muſt be Maſter Workmen that can preſerve the decays of it, or keep it from a downfall.</p>
+            <p>Such Citizens I chiefly magnifie, which are perſpi<g ref="char:EOLhyphen"/>cuous in Graces, and the eyes that ſee them bleſs them
+<pb n="4" facs="tcp:98526:3"/> for their Piety, whoſe chief Mart is in Heaven, and Trade for ſuch Riches as exceed all the Treaſures of <hi>Egypt,</hi> which weep over <hi>Londons</hi> ſins; there are ſins in the City that do threaten Judgments.</p>
+            <p>Who am I, that I ſhould ſummon a whole City to Re<g ref="char:EOLhyphen"/>pentance, and bring ſuch vaſt numbers out of the bon<g ref="char:EOLhyphen"/>dage of their corruptions and deſtruction?</p>
+            <p>Religious Citizens, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly from all pleaſures, contemn all Honours, be ſtrangers for a time to the ſplendor of the City, ſo long as people are ſetled upon their Lees, think there is ſome emptying of the Veſſel at hand, when you are laid in your beds, ſuppoſe that a puni<g ref="char:EOLhyphen"/>ſhing God may awaken you, when you are at your Feaſts, that vengeance may bring in the Voyder.</p>
+            <p>When ye are ſelling your Wares, that your laſt Bar<g ref="char:EOLhyphen"/>gaines are even making. When ye are telling over your Thouſands, that you are but purſing up for a new Re<g ref="char:EOLhyphen"/>ceiver.</p>
+            <p>Expect every hour when a ſhriek Trumpet ſhould be blown in the Streets; when nothing ſhould be heard amongſt you, but Tumult, Diſtraction, wailing and cry<g ref="char:EOLhyphen"/>ing, alas! alas! oh then gather together, and ſee how many Penitents there are among you, for they are the beſt Citizens; they may faſt away all Perils, and pray away all Judgments.</p>
+            <p>This is the right way to ſafety, walk in it, and ye are gone beyond danger. Thus I leave my Motion to your Conſciences, the Practice of it to your Vertue, and the Succeſs to the bleſſing of him in Heaven, and you to the Grace of Chriſt.</p>
+            <closer>
+               <signed>THO. REEVE.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="5" facs="tcp:98526:3"/>
+            <p>YE are yet a populous City, preſerved in your Thouſands; but if the Arrow that flieth at Noon-day ſhould glide amongſt you, how many wounded breaſts would there be! A thouſand materials for pure ſmoaks to expel ill ſcents, yet might be in<g ref="char:EOLhyphen"/>effectual to prevent that irreſiſtable ſtroak; neither do I think that Wine is an Antidote againſt all Poyſons; nor that if a man be well-dietted, he may eſcape any Infection. There is not a more diſmal Diſeaſe than that of the Peſtilence, when God will ſtrike, or where, or by what means: Yea, it is a Weapon ſo ſharp, that it is able to leave Cities without an Heir.</p>
+            <p>There are now amongſt you more people, and more ſins. A Peſtilence is the Sickle of the Grave, and the Worms Caterer, the firſt-born of Death. It is that which makes the great fall in the Forreſt of Mankind. It will chaſe M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n out of their Dwellings, and ſhut up Shop-doors, as if execution after Judgment were ſerved upon Traders. Then there will be
+<pb n="6" facs="tcp:98526:4"/> no other Muſick to be heard but doleful knels, no other Wares to be bought up and down but Dead Bodies: Manſion Houſes it will change into Peſt-Houſes, the buſieſt ſervants will be Keepers, and the moſt active Officers, Searchers. They ſhall lye down at night without the leaſt ſpot ſeen upon them, and riſe up in the Morning, with Gods Tokens vi<g ref="char:EOLhyphen"/>ſible upon them. They ſhall walk out of their Houſes without the leaſt diſ-aylment or diſtemper, and drop down before they can get home to their own Threſholds. Then the Bro<g ref="char:EOLhyphen"/>ther will ſcarce look upon the Siſter, the Huſ<g ref="char:EOLhyphen"/>band fear to come near his Wife. A Porter rare to be hired to go on thy Arrant; or a Friend as difficult to be ſeen. Of all miſeries the Peſtilence is the fray of all dreadful things which can happen upon Earth, this is the hor<g ref="char:EOLhyphen"/>ror. Oh, that you would cleanſe your Streets with Repentance, that this Infection might not breed out of your Sins, diſſemble not to the laſt. Oh, let Judgment denounced quicken you. If God threaten, believe; if he put on Juſtice like a Cloak, do ye caſt away your Robes; if he doth frown, do ye weep; if he
+<pb n="7" facs="tcp:98526:4"/> be ſetting of your Sins in order before you, do you confeſs them; if his feet be turning into the viſiting ways, do ye turn every one from his evil ways; nothing but Repentance can ſe<g ref="char:EOLhyphen"/>cure you, vengeance is awakt with the noiſe of your Sins. There are many which do wiſh for your deſtruction, and are forty that they can<g ref="char:EOLhyphen"/>not make you the miſerable of the Earth; they conſult ſad things concerning you; their brains do work, their hearts do boyl, their mouthes do foam, and they would willingly be ſtretch<g ref="char:EOLhyphen"/>ing out their hands to ſhake you and ſhiver you. You have Enemies within your City, ye have Enemies in your own Conſciences; your Sins do threaten more Calamities againſt you, than all the inveterate, implacable Adverſa<g ref="char:EOLhyphen"/>ries which you have upon Earth.</p>
+            <p>Eſcape vengeance by flying provocation. Your City is threatned, take heed ye do not ſleep out the hour of your ſecurity. Preſum<g ref="char:EOLhyphen"/>ption may ſubvert, let Contrition deliver you. The time may be ſhort, the work is great, the danger is apparent, the miſery will be unſpeak<g ref="char:EOLhyphen"/>able. All your Goods are ready to be ſacrifi<g ref="char:EOLhyphen"/>ced to vengeance, bring forth your ſin-offe<g ref="char:EOLhyphen"/>ring,
+<pb n="8" facs="tcp:98526:5"/> before the ſparks have taken fire. If there be any liſtning to a Warning, c<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edence of Threatning, obedience to Counſell, fore<g ref="char:EOLhyphen"/>ſight of Danger, ſting of Guilt, or obligation of Duty, pitty the City, and petition for the City; ſhed lakes of Tears to obtain the peace of the City; wear Sackcloth leſt ye are naked, faſt leſt ye ſtarve, creep upon your knees, leſt ye creep into corners; ſhut your ſelves into your Cloſets, leſt ye be ſhut into Dungeons; fly to Heaven, leſt ye fly out of the Land. Oh, that I could make you thus to believe God and ſerve God: your humiliation ſhould free you from all dangers; your Walls ſhall not be battered, your Shops not Rifled, your Per<g ref="char:EOLhyphen"/>ſons not Maſſacred, but all your Priviledges Ratified.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
